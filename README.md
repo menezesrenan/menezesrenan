@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://menezesrenan.github.io">
-    <img alt="Hello 👋, I'm Renan Menezes."/>
+    <h1>Hello 👋, I'm Renan Menezes.</h1>
   </a>
 </p><br/>
 
@@ -10,7 +10,7 @@ I'm Civil Engineer and I'm in a career transition to web development
 
 - 🎓 Study at [Trybe](http://Trybe.com/)
 
-- 💼 I'm looking for oportunities and collaboration in projects related to FrontEnd (HTML, CSS, JS e learning ate the moment React) to learning projects.
+- 💼 I'm looking for oportunities and collaboration in projects related to FrontEnd (HTML, CSS, JS e learning at the moment React) to learning projects.
 
 - 💬 Ask me about anything https://www.linkedin.com/in/menezesrenan
 

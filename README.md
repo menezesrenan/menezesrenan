@@ -4,7 +4,7 @@
   </a>
 </p><br/>
 
-I'm Civil Engineer and I'm in a career transition to web development
+<h3>I'm Civil Engineer and I'm in a career transition to web development</h3><br/>
 
 **About me**
 
@@ -14,13 +14,14 @@ I'm Civil Engineer and I'm in a career transition to web development
 
 - 💬 Ask me about anything https://www.linkedin.com/in/menezesrenan
 
+<br/>
 
 **Learning**
 
-
 <code>
-  <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-<code>
-  <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="50" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <img height="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <img height="50" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </code>

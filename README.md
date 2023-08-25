@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Renan Menezes</h1>
 <h2> Web Developer in the Making | Civil Engineer </h2>
 
-Welcome to my LinkedIn profile! I'm currently in the process of transitioning from my background in Civil Engineering to the exciting realm of web development. While my foundations lie in building structures, I'm now focused on constructing digital experiences that users will love.
+Welcome to my profile! I'm currently in the process of transitioning from my background in Civil Engineering to the exciting realm of web development. While my foundations lie in building structures, I'm now focused on constructing digital experiences that users will love.
 
 About Me:
 

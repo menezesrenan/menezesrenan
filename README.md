@@ -9,7 +9,7 @@ About Me:
 
 👯 Open to collaborations on <b>Front End projects</b> where I can bring my creativity to the table.
 
-📝 Occasionally sharing insights and knowledge through articles on [Medium](https://medium.com/@menerezesrenan)
+📝 Occasionally sharing insights and knowledge through articles on [Medium](https://medium.com/@menezesrenan)
 
 💬 Feel free to reach out to me for <b>anything related to web development or my journey.</b>
 

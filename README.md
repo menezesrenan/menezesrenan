@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Renan Menezes</h1>
-<h2> Web Developer Junior | Civil Engineer </h2>
+<h2> Software Engineer Intern | Civil Engineer </h2>
 
 Welcome to my profile! I'm currently in the process of transitioning from my background in Civil Engineering to the exciting realm of web development. While my foundations lie in building structures, I'm now focused on constructing digital experiences that users will love.
 
